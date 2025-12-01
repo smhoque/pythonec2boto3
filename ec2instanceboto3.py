@@ -36,7 +36,7 @@ instances = ec2_resource.create_instances(
             'Tags': [
                 {
                     'Key': 'Name',
-                    'Value': 'ec2testing'
+                    'Value': 'ec2testingdemo'
                 },
                 {
                     'Key': 'Department',
